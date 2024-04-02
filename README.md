@@ -17,7 +17,7 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 ***1.2.  Nome do Sistema***
 
-Esfirras da Márcia
+Esfirras da Márcia --------
 
 ***1.3.  Propósito do Sistema***
 
