@@ -11,7 +11,7 @@ Indicar o nome e github dos integrantes do grupo
 
 ***1.2.  Nome do Sistema***
 
-Indicar o nome do software proposto
+Esfirras da Márcia
 
 ***1.3.  Propósito do Sistema***
 
