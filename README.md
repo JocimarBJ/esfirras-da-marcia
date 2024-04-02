@@ -8,7 +8,7 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 ***1.1.  Nome do Grupo***
 
 **Grupo 7 - Esfirras da Márcia** \**
-*@JocimarBj* - link: https://github.com/JocimarBJ (\*)
+*@JocimarBj* - link: https://github.com/JocimarBJ\
 *@Andromeda-Queen* - link: https://github.com/Andromeda-Queen \**
 *@BrinoMD* - link: https://github.com/BrinoMD \**
 *@Caduber* - link: https://github.com/Caduber \**
