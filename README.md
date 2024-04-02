@@ -22,17 +22,21 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+Oferecer um cardápio online em que os clientes consigam encomendar esfirras, além de gerar benefícios para quem compra fielmente. Para os donos da loja, também há opções de controle de recursos e gastos.
 
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O objetivo da **Esfirras da Márcia** é facilitar a encomenda de esfirras para o usuário e o gerenciamento de recursos e entregas para o comerciante. 
 
-***1.2.  Público Alvo***
+***1.4.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+O público alvo é tanto a loja *(de esfirras)* quanto para os clientes da loja.
 
-***1.3. Descrição dos usuários***
+***1.5. Descrição dos usuários***
 
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
+Pessoas que buscam maior agilidade no dia a dia, de qualquer faixa etária, que querem receber comida por delivery.
+
+
+
+
 
 ## 2. Documentos gerais no repositório
 
