@@ -35,6 +35,14 @@ O público alvo é tanto a loja *(de esfirras)* quanto para os clientes da loja.
 Planilha:
 https://docs.google.com/document/d/11KBDEbPJdz3StuBsYBrMCwRkD2JUd2fKU2W7mhlEpco/edit
 
+Personas:
+
+![1](https://github.com/JocimarBJ/esfirras-da-marcia/assets/75817277/139133ae-e1ca-4aba-bd21-aa36c7f2f862)
+
+![2](https://github.com/JocimarBJ/esfirras-da-marcia/assets/75817277/3c8d9a6b-ab8a-4662-a2e2-0f5d16e5672e)
+
+![3](https://github.com/JocimarBJ/esfirras-da-marcia/assets/75817277/87ab76dd-da3d-4da5-af47-d3c8535c2004)
+
   
 Análise de tarefas:  
 
@@ -57,7 +65,7 @@ Marcia faz esfirras, ela oferece e vende seus produtos através do WhatsApp. Ela
 Cenário Depois:
 Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos clientes. Agora, os clientes acessam um link específico para fazer seus pedidos, escolhendo os sabores e a quantidade desejada de esfirras. Além disso, o sistema permite que os clientes façam o pagamento online, utilizando métodos como cartão de crédito, débito ou transferência bancária. Assim que o pedido é realizado e o pagamento confirmado, Marcia recebe automaticamente todas as informações do pedido em seu sistema, incluindo o endereço do cliente e o horário de entrega desejado. Com essas informações, ela prepara as esfirras e faz as entregas, mantendo um registro completo de todos os pedidos e pagamentos.
 
-![][./Imagens/1]
+
 
 ## 2. Documentos gerais no repositório
 
