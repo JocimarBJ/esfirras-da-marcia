@@ -35,6 +35,19 @@ O público alvo é tanto a loja *(de esfirras)* quanto para os clientes da loja.
 Planilha:
 https://docs.google.com/document/d/11KBDEbPJdz3StuBsYBrMCwRkD2JUd2fKU2W7mhlEpco/edit
 
+  
+Análise de tarefas:  
+
+O que as pessoas fazem?  
+Produção e vendas de esfihas em pequena/média escala na cidade de Cornélio Procópio.  
+
+Quais os artefatos envolvidos?  
+Um meio de comunicação entre cliente e fornecedor, um tipo de banco de dados para o registro de informações como as vendas diárias, gastos, quantidade de esfirras, etc. 
+um meio de comunicação entre o fornecedor e um meio de entregas, um meio de comunicação entre o cliente e o meio de entregas.  
+
+O que eles precisam saber?  
+Saber se comunicar com os clientes, saber calcular o custo e o preço do produto a ser vendido, saber achar a localização para entregas, saber anotar as informações de vendas diárias.  
+
 
 
 
