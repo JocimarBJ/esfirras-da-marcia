@@ -48,8 +48,14 @@ um meio de comunicação entre o fornecedor e um meio de entregas, um meio de co
 O que eles precisam saber?  
 Saber se comunicar com os clientes, saber calcular o custo e o preço do produto a ser vendido, saber achar a localização para entregas, saber anotar as informações de vendas diárias.  
 
+Cenários:
+
+Cenário Antes:
+Marcia faz esfirras, ela oferece e vende seus produtos através do WhatsApp. Ela recebe os pedidos dos clientes por mensagem e anota todas as informações necessárias em um caderno, como o sabor das esfirras, a quantidade desejada, o nome e endereço do cliente, além do horário de entrega solicitado. Após anotar os pedidos, ela prepara as esfirras conforme solicitado e faz as entregas pessoalmente ou por meio de um serviço de entrega.
 
 
+Cenário Depois:
+Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos clientes. Agora, os clientes acessam um link específico para fazer seus pedidos, escolhendo os sabores e a quantidade desejada de esfirras. Além disso, o sistema permite que os clientes façam o pagamento online, utilizando métodos como cartão de crédito, débito ou transferência bancária. Assim que o pedido é realizado e o pagamento confirmado, Marcia recebe automaticamente todas as informações do pedido em seu sistema, incluindo o endereço do cliente e o horário de entrega desejado. Com essas informações, ela prepara as esfirras e faz as entregas, mantendo um registro completo de todos os pedidos e pagamentos.
 
 
 ## 2. Documentos gerais no repositório
