@@ -57,7 +57,7 @@ Marcia faz esfirras, ela oferece e vende seus produtos através do WhatsApp. Ela
 Cenário Depois:
 Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos clientes. Agora, os clientes acessam um link específico para fazer seus pedidos, escolhendo os sabores e a quantidade desejada de esfirras. Além disso, o sistema permite que os clientes façam o pagamento online, utilizando métodos como cartão de crédito, débito ou transferência bancária. Assim que o pedido é realizado e o pagamento confirmado, Marcia recebe automaticamente todas as informações do pedido em seu sistema, incluindo o endereço do cliente e o horário de entrega desejado. Com essas informações, ela prepara as esfirras e faz as entregas, mantendo um registro completo de todos os pedidos e pagamentos.
 
-!([./Imagens/1])
+![][./Imagens/1]
 
 ## 2. Documentos gerais no repositório
 
