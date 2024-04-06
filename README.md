@@ -32,7 +32,8 @@ O público alvo é tanto a loja *(de esfirras)* quanto para os clientes da loja.
 
 ***1.5. Descrição dos usuários***
 
-Pessoas que buscam maior agilidade no dia a dia, de qualquer faixa etária, que querem receber comida por delivery.
+Planilha:
+https://docs.google.com/document/d/11KBDEbPJdz3StuBsYBrMCwRkD2JUd2fKU2W7mhlEpco/edit
 
 
 
