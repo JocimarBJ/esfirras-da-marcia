@@ -16,6 +16,8 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 *@GabrielB2101* - link: https://github.com/GabrielB2101  
 *@lucasouza20* - link: https://github.com/lucasouza20  
 
+**Link padlet = [https://padlet.com/carlosemdl/requisitos-de-software-4iyf40lcl07kw08d]**
+
 ***1.2.  Nome do Sistema***
 
 **Esfirras da Márcia**
