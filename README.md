@@ -39,11 +39,9 @@ https://docs.google.com/document/d/11KBDEbPJdz3StuBsYBrMCwRkD2JUd2fKU2W7mhlEpco/
 
 Personas:
 
-![1](https://github.com/JocimarBJ/esfirras-da-marcia/assets/75817277/139133ae-e1ca-4aba-bd21-aa36c7f2f862)
-
-![2](https://github.com/JocimarBJ/esfirras-da-marcia/assets/75817277/3c8d9a6b-ab8a-4662-a2e2-0f5d16e5672e)
-
-![3](https://github.com/JocimarBJ/esfirras-da-marcia/assets/75817277/87ab76dd-da3d-4da5-af47-d3c8535c2004)
+![3](https://github.com/JocimarBJ/esfirras-da-marcia/assets/75817277/3ef256a1-7168-4bf3-9604-a4cfd2879a69)
+![2](https://github.com/JocimarBJ/esfirras-da-marcia/assets/75817277/654c9948-d3ef-464d-b630-b8cb7d985b93)
+![1](https://github.com/JocimarBJ/esfirras-da-marcia/assets/75817277/991ca6db-4d1a-4fa4-9b93-5dd4b52b2ad8)
 
   
 Análise de tarefas:  
