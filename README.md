@@ -3,6 +3,8 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
+Apresentação do pitch: https://www.canva.com/design/DAGB4CU5PtU/vX7Toe6p2_bopGCY0FV7eA/edit?utm_content=DAGB4CU5PtU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## 1. Introdução
 
 ***1.1.  Nome do Grupo***
