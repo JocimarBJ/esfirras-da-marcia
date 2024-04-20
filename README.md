@@ -73,6 +73,10 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 
 |Requisitos Funcionais|
 |---------------------|
+|RF01 - O sistema sistema deve apresentar o subtotal ao usuário antes de finalizar a compra|
+|RF02 - O sistema deve apresentar o sabor das esfirras ao usuário quando solicitado|
+|RF03 - O usuário deve poder selecionar os sabores e adicionar ao carrinho|
+
 
 Identificador|Requisitos Não Funcionais|
 |------------|---------------------|
