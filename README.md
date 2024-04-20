@@ -71,13 +71,11 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 
 ## 2. Documentos gerais no repositório
 
-***2.1. Requisitos de usuário***
+|Requisitos Funcionais|
+|---------------------|
 
-*<Link para a pasta com os requisitos de usuário.>*
-
-***2.2. Requisitos de sistema***
-
-*<Link para a pasta de requisitos de sistema .>*
+Identificador|Requisitos Não Funcionais|
+|------------|---------------------|
 
 ***2.3. Protótipos***
 
