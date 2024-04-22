@@ -85,7 +85,18 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |RF10 | O software no perfil de administrador deve ser capaz de visualizar o gasto para a produção|
 
 
-Identificador|Requisitos Não Funcionais|
+|Identificador|Requisitos Não Funcionais|
+|--|--|
+|RNF01 | |
+|RNF02 | |
+|RNF03 | |
+|RNF04 | |
+|RNF05 | |
+|RNF06 | |
+|RNF07 | |
+|RNF08 | |
+|RNF09 | |
+|RNF10 | |
 
 
 ***2.3. Protótipos***
