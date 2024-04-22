@@ -75,10 +75,10 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |---------------------|--------------|
 |RF01 | O sistema sistema deve apresentar o subtotal ao usuário antes de finalizar a compra|
 |RF02 | O sistema deve apresentar o sabor das esfirras ao usuário quando solicitado|
-|RF03 | O sistema deve ser capaz de calcular o custo de produção|
-|RF04 | O sistema deve registrar a entrada e saída de caixa|
-|RF05 | O sistema deve ser capaz de calcular o lucro diario|
-|RF06 | O software no perfil de usuário deve poder selecionar os sabores e adicionar ao carrinho|
+|RF03 | O sistema deve ser capaz de calcular o custo de produção| **
+|RF04 | O sistema deve registrar a entrada e saída de caixa| **
+|RF05 | O sistema deve ser capaz de calcular o lucro diario| **
+|RF06 | O software no perfil de usuário deve poder selecionar os sabores e adicionar ao carrinho| **
 |RF07 | O software no perfil de administrador deve ser capaz de consultar os pedidos dos usuários|
 |RF08 | O software no perfil de administrador pode inserir os tipos de sabores no sistema|
 |RF09 | O software no perfil de administrador pode consultar os endereços dos usuários|
@@ -87,16 +87,16 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 
 |Identificador|Requisitos Não Funcionais|
 |--|--|
-|RNF01 | |
-|RNF02 | |
-|RNF03 | |
-|RNF04 | |
-|RNF05 | |
-|RNF06 | |
-|RNF07 | |
-|RNF08 | |
-|RNF09 | |
-|RNF10 | |
+|RNF01 | O sistema deve armazenar os pedidos em um banco de dados|
+|RNF02 | O sistema deve gerenciar os pontos fidelidade de cada usuário| **
+|RNF03 | O sistema deve apresentar uma interface diferente para os administradores| **
+|RNF04 | O sistema deve mostrar os insumos restantes das esfirras|
+|RNF05 | O sistema deve permitir a alteração dos preços das esfirras|
+|RNF06 | O sistema deve gerar um relatório diário com base no lucro|
+|RNF07 | O sistema deve separar os pedidos em "realizando" e "concluído"|
+|RNF08 | O sistema deverá oferecer opções de pagamento em dinheiro ou cartão|
+|RNF09 | O sistema deve manter um histórico de compras dos clientes| **
+|RNF10 | O sistema deverá salvar os dados de pedidos que não foram finalizados pelos clientes|**
 
 
 ***2.3. Protótipos***
