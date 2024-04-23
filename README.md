@@ -88,18 +88,18 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |RF13 | O sistema deve permitir que o usuário escolha qual tipo de login irá fazer, sendo Administrador ou Cliente| Alta
 
 
-|Identificador|Requisitos Não Funcionais| Prioridade | Dependências |
-|--|--|--|--|
-|RF01| O sistema deve poder ser acessado em qualquer dispositivos mobile (Android e Ios)|Alta|-|
-|RF02| O sistema deve suportar diferentes tipos de moedas|Baixa|-|
-|RF03| O sistema deve suportar português, inglês e espanhol para maximizar a abrangência de público|Baixa|-|
-|RF04| O sistema deve armazenar os pedidos dos clientes em um banco de dados|Alta|-|
-|RF05| O sistema deve armazenar as contas dos usuários com cpf, nome e telefone no banco de dados|Alta|-|
-|RF06| O sistema deve suportar 100 usuários concorrentemente|Alta|-|
-|RF07| O sistema deve oferecer opções de pagamento em dinheiro, cartão ou pix|Alta|-|
-|RF08| O sistema deve salvar os dados de pedidos que não foram finalizados pelos clientes|Alta|-|
-|RF09| O sistema deve ser implementado em Kotlin para android e Swift para IOS|Alta|-|
-|RF10| O sistema deve retringir o acesso aos dados pessoais dos usuários apenas aos administradores|Alta|-|
+|Identificador|Requisitos Não Funcionais| Prioridade |
+|--|--|--|
+|RF01| O sistema deve poder ser acessado em qualquer dispositivos mobile (Android e Ios)|Alta
+|RF02| O sistema deve suportar diferentes tipos de moedas|Baixa
+|RF03| O sistema deve suportar português, inglês e espanhol para maximizar a abrangência de público|Baixa
+|RF04| O sistema deve armazenar os pedidos dos clientes em um banco de dados|Alta
+|RF05| O sistema deve armazenar as contas dos usuários com cpf, nome e telefone no banco de dados|Alta
+|RF06| O sistema deve suportar 100 usuários concorrentemente|Alta
+|RF07| O sistema deve oferecer opções de pagamento em dinheiro, cartão ou pix|Alta
+|RF08| O sistema deve salvar os dados de pedidos que não foram finalizados pelos clientes|Alta
+|RF09| O sistema deve ser implementado em Kotlin para android e Swift para IOS|Alta
+|RF10| O sistema deve retringir o acesso aos dados pessoais dos usuários apenas aos administradores|Alta
 
 
 ***2.3. Protótipos***
