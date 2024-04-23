@@ -77,15 +77,16 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |RF02 | O sistema deve apresentar o sabor das esfirras ao usuário quando solicitado| Media
 |RF03 | O sistema deve ser capaz de calcular o custo de produção| Baixa
 |RF04 | O sistema deve registrar a entrada e saída de caixa| Alta
-|RF05 | O sistema deve ser capaz de calcular o lucro diario| Media
+|RF05 | O sistema deve ser capaz de calcular e mostrar o lucro diario| Media
 |RF06 | O sistema deve permitir que o cliente possa selecionar os sabores das esfirras| Media
-|RF07 | O sistema deve ser capaz de deixar que o administrador consulte os pedidos feitos pelos clientes| Alta
+|RF07 | O sistema deve ser capaz de deixar que o administrador consulte e finalize os pedidos feitos pelos clientes| Alta
 |RF08 | O sistema deve permitir que o administrador possa inserir os tipos de sabores no sistema| Alta
 |RF09 | O sistema deve permitir que o administrador possa consultar os endereços dos usuários na hora da entrega| Alta
 |RF10 | O sistema deve garantir que o administrador seja capaz de visualizar o gasto para a produção| Baixa
 |RF11 | O sistema deve permitir que o cliente consiga adicionar itens ao carrinho| Media
 |RF12 | O sistema deve permitir que o usuário faça seu cadastro usando seus dados pessoais| Alta
 |RF13 | O sistema deve permitir que o usuário escolha qual tipo de login irá fazer, sendo Administrador ou Cliente| Alta
+|RF14 | O sistema deve permitir que o usuário acesse uma interface de histórico das entradas, saídas e registros de caixa realizados pelo sistema|Alta
 |===|==================================================================|===|
 |RN01| O sistema deve poder ser acessado em qualquer dispositivos mobile (Android e Ios)|Alta
 |RN02| O sistema deve suportar diferentes tipos de moedas|Baixa
@@ -102,7 +103,7 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |RN13| O sistema deve fazer com que a compra do usuário seja realizada com menos de 4 cliques no app|Baixa
 |RN14| O sistema deve ter seu banco de dados implementado em MySQL|Baixa
 |RN15| O sistema deve fazer com que os usuários sejam capazes de acessar o botão de suporte/contato online em qualquer pagina do sistema|Media
-
+|RN16| O sistema deve calcular e mostrar para os usuários o tempo medio por cliente para entregar o produto utilizando a API do google maps|Media
 
 
 ***2.3. Protótipos***
