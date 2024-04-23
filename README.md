@@ -98,9 +98,10 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |RNF09 | O sistema deve manter um histórico de compras dos clientes| **
 |RNF10 | O sistema deverá salvar os dados de pedidos que não foram finalizados pelos clientes|**
 
+|-|-|
 || O sistema deve ser intuitivo para que qualquer um consiga usar|
 || O sistema deve poder ser acessado em qualquer dispositivo mobile (android e ios)|
-|| O sistema deverá ter 
+|| O sistema deverá ter |
 
 
 ***2.3. Protótipos***
