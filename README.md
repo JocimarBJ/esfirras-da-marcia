@@ -86,7 +86,7 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |RF11 | O sistema deve permitir que o cliente consiga adicionar itens ao carrinho| Media
 |RF12 | O sistema deve permitir que o usuário faça seu cadastro usando seus dados pessoais| Alta
 |RF13 | O sistema deve permitir que o usuário escolha qual tipo de login irá fazer, sendo Administrador ou Cliente| Alta
-|====|=======|=======|
+|====|========================================|====|
 |RN01| O sistema deve poder ser acessado em qualquer dispositivos mobile (Android e Ios)|Alta
 |RN02| O sistema deve suportar diferentes tipos de moedas|Baixa
 |RN03| O sistema deve suportar português, inglês e espanhol para maximizar a abrangência de público|Baixa
