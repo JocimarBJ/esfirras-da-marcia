@@ -71,33 +71,35 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 
 ## 2. Documentos gerais no repositório
 
-|Identificador|Descricao|Prioridade|
+|Identificador|Descrição|Prioridade|
 |---------------------|--------------|------------|
-|RF01 | O sistema sistema deve apresentar o subtotal ao usuário antes de finalizar a compra|
-|RF02 | O sistema deve apresentar o sabor das esfirras ao usuário quando solicitado|
-|RF03 | O sistema deve ser capaz de calcular o custo de produção| **
-|RF04 | O sistema deve registrar a entrada e saída de caixa| **
-|RF05 | O sistema deve ser capaz de calcular o lucro diario| **
-|RF06 | O sistema deve permitir que o cliente possa selecionar os sabores das esfirras|
-|RF07 | O sistema deve ser capaz de deixar que o administrador consulte os pedidos feitos pelos clientes|
-|RF08 | O sistema deve permitir que o administrador possa inserir os tipos de sabores no sistema|
-|RF09 | O sistema deve permitir que o administrador possa consultar os endereços dos usuários na hora da entrega|
-|RF10 | O sistema deve garantir que o administrador seja capaz de visualizar o gasto para a produção|
-|RF11 | O sistema deve permitir que o cliente consiga adicionar itens ao carrinho|
+|RF01 | O sistema sistema deve apresentar o subtotal ao usuário antes de finalizar a compra| Alta
+|RF02 | O sistema deve apresentar o sabor das esfirras ao usuário quando solicitado| Media
+|RF03 | O sistema deve ser capaz de calcular o custo de produção| Baixa
+|RF04 | O sistema deve registrar a entrada e saída de caixa| Alta
+|RF05 | O sistema deve ser capaz de calcular o lucro diario| Média
+|RF06 | O sistema deve permitir que o cliente possa selecionar os sabores das esfirras| Media
+|RF07 | O sistema deve ser capaz de deixar que o administrador consulte os pedidos feitos pelos clientes| Alta
+|RF08 | O sistema deve permitir que o administrador possa inserir os tipos de sabores no sistema| Alta
+|RF09 | O sistema deve permitir que o administrador possa consultar os endereços dos usuários na hora da entrega| Alta
+|RF10 | O sistema deve garantir que o administrador seja capaz de visualizar o gasto para a produção| Baixa
+|RF11 | O sistema deve permitir que o cliente consiga adicionar itens ao carrinho| Media
+|RF12 | O sistema deve permitir que o usuário faça seu cadastro usando seus dados pessoais| Alta
+|RF13 | O sistema deve permitir que o usuário escolha qual tipo de login irá fazer, sendo Administrador ou Cliente| Alta
 
 
 |Identificador|Requisitos Não Funcionais|
 |--|--|
 |RNF01 | O sistema deve armazenar os pedidos em um banco de dados|
-|RNF02 | O sistema deve gerenciar os pontos fidelidade de cada usuário| **
-|RNF03 | O sistema deve apresentar uma interface diferente para os administradores| **
+|RNF02 | O sistema deve gerenciar os pontos fidelidade de cada usuário| 
+|RNF03 | O sistema deve apresentar uma interface diferente para os administradores| 
 |RNF04 | O sistema deve mostrar os insumos restantes das esfirras|
 |RNF05 | O sistema deve permitir a alteração dos preços das esfirras|
 |RNF06 | O sistema deve gerar um relatório diário com base no lucro|
 |RNF07 | O sistema deve separar os pedidos em "realizando" e "concluído"|
 |RNF08 | O sistema deverá oferecer opções de pagamento em dinheiro ou cartão|
-|RNF09 | O sistema deve manter um histórico de compras dos clientes| **
-|RNF10 | O sistema deverá salvar os dados de pedidos que não foram finalizados pelos clientes|**
+|RNF09 | O sistema deve manter um histórico de compras dos clientes| 
+|RNF10 | O sistema deverá salvar os dados de pedidos que não foram finalizados pelos clientes|
 
 |Identificador|Descrição|Prioridade|
 |---|---|---|
