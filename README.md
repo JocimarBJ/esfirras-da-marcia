@@ -78,11 +78,12 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |RF03 | O sistema deve ser capaz de calcular o custo de produção| **
 |RF04 | O sistema deve registrar a entrada e saída de caixa| **
 |RF05 | O sistema deve ser capaz de calcular o lucro diario| **
-|RF06 | O software no perfil de usuário deve poder selecionar os sabores e adicionar ao carrinho| **
-|RF07 | O software no perfil de administrador deve ser capaz de consultar os pedidos dos usuários|
-|RF08 | O software no perfil de administrador pode inserir os tipos de sabores no sistema|
-|RF09 | O software no perfil de administrador pode consultar os endereços dos usuários|
-|RF10 | O software no perfil de administrador deve ser capaz de visualizar o gasto para a produção|
+|RF06 | O sistema deve permitir que o cliente possa selecionar os sabores das esfirras|
+|RF07 | O sistema deve ser capaz de deixar que o administrador consulte os pedidos feitos pelos clientes|
+|RF08 | O sistema deve permitir que o administrador possa inserir os tipos de sabores no sistema|
+|RF09 | O sistema deve permitir que o administrador possa consultar os endereços dos usuários na hora da entrega|
+|RF10 | O sistema deve garantir que o administrador seja capaz de visualizar o gasto para a produção|
+|RF11 | O sistema deve permitir que o cliente consiga adicionar itens ao carrinho|
 
 
 |Identificador|Requisitos Não Funcionais|
@@ -98,10 +99,10 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |RNF09 | O sistema deve manter um histórico de compras dos clientes| **
 |RNF10 | O sistema deverá salvar os dados de pedidos que não foram finalizados pelos clientes|**
 
-|-|-|
-|| O sistema deve ser intuitivo para que qualquer um consiga usar|
-|| O sistema deve poder ser acessado em qualquer dispositivo mobile (android e ios)|
-|| O sistema deverá ter |
+|---|---|---|
+| | O sistema deve ser intuitivo para que qualquer um consiga usar| |
+| | O sistema deve poder ser acessado em qualquer dispositivo mobile (android e ios)| |
+| | O sistema deverá ter| |
 
 
 ***2.3. Protótipos***
