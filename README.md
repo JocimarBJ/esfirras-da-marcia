@@ -88,24 +88,18 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |RF13 | O sistema deve permitir que o usuário escolha qual tipo de login irá fazer, sendo Administrador ou Cliente| Alta
 
 
-|Identificador|Requisitos Não Funcionais|
-|--|--|
-|RNF01 | O sistema deve armazenar os pedidos em um banco de dados|
-|RNF02 | O sistema deve gerenciar os pontos fidelidade de cada usuário| 
-|RNF03 | O sistema deve apresentar uma interface diferente para os administradores| 
-|RNF04 | O sistema deve mostrar os insumos restantes das esfirras|
-|RNF05 | O sistema deve permitir a alteração dos preços das esfirras|
-|RNF06 | O sistema deve gerar um relatório diário com base no lucro|
-|RNF07 | O sistema deve separar os pedidos em "realizando" e "concluído"|
-|RNF08 | O sistema deverá oferecer opções de pagamento em dinheiro ou cartão|
-|RNF09 | O sistema deve manter um histórico de compras dos clientes| 
-|RNF10 | O sistema deverá salvar os dados de pedidos que não foram finalizados pelos clientes|
-
-|Identificador|Descrição|Prioridade|
-|---|---|---|
-| | O sistema deve ser intuitivo para que qualquer um consiga usar| |
-| | O sistema deve poder ser acessado em qualquer dispositivo mobile (android e ios)| |
-| | O sistema deverá ter| |
+|Identificador|Requisitos Não Funcionais| Prioridade | Dependências |
+|--|--|--|--|
+|RF01| O sistema deve poder ser acessado em qualquer dispositivos mobile (Android e Ios)|-|-|
+|RF02| O sistema deve suportar diferentes tipos de moedas|-|-|
+|RF03| O sistema deve suportar português, in gleês e espanhol para maximizar a abrangência de público|-|-|
+|RF04| O sistema deve armazenar os pedidos dos clientes em um banco de dados|-|-|
+|RF05| O sistema deve armazenar as contas dos usuários com cpf, nome e telefone no banco de dados|-|-|
+|RF06| O sistema deve suportar 100 usuários concorrentemente|-|-|
+|RF07| O sistema deve oferecer opções de pagamento em dinheiro ou cartão|-|-|
+|RF08| O sistema deve salvar os dados de pedidos que não foram finalizados pelos clientes|-|-|
+|RF09| O sistema deve ser implementado em Kotlin para android e Swift para IOS|-|-|
+|RF10| O sistema deve retringir o acesso aos dados pessoais dos usuários apenas aos administradores|-|-|
 
 
 ***2.3. Protótipos***
