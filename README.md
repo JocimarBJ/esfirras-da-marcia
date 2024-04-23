@@ -77,7 +77,7 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |RF02 | O sistema deve apresentar o sabor das esfirras ao usuário quando solicitado| Media
 |RF03 | O sistema deve ser capaz de calcular o custo de produção| Baixa
 |RF04 | O sistema deve registrar a entrada e saída de caixa| Alta
-|RF05 | O sistema deve ser capaz de calcular o lucro diario| Média
+|RF05 | O sistema deve ser capaz de calcular o lucro diario| Media
 |RF06 | O sistema deve permitir que o cliente possa selecionar os sabores das esfirras| Media
 |RF07 | O sistema deve ser capaz de deixar que o administrador consulte os pedidos feitos pelos clientes| Alta
 |RF08 | O sistema deve permitir que o administrador possa inserir os tipos de sabores no sistema| Alta
@@ -97,6 +97,12 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |RN08| O sistema deve salvar os dados de pedidos que não foram finalizados pelos clientes|Alta
 |RN09| O sistema deve ser implementado em Kotlin para android e Swift para IOS|Alta
 |RN10| O sistema deve retringir o acesso aos dados pessoais dos usuários apenas aos administradores|Alta
+|RN11| O sistema deve garantir que o cadastro seja realizado com os dados do CPF, Nome e Telefone do usuário para todo usuário| Alta
+|RN12| O sistema deve garantir que o cadastro do Administrador contenha um conjunto adicional de informações, incluindo o cargo e a data de admissão do administrador| Alta
+|RN13| O sistema deve fazer com que a compra do usuário seja realizada com menos de 4 cliques no app|Baixa
+|RN14| O sistema deve ter seu banco de dados implementado em MySQL|Baixa
+|RN15| O sistema deve fazer com que os usuários sejam capazes de acessar o botão de suporte/contato online em qualquer pagina do sistema|Media
+
 
 
 ***2.3. Protótipos***
