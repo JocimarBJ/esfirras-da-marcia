@@ -71,7 +71,7 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 
 ## 2. Documentos gerais no repositório
 
-|Identificador|Requisitos Funcionais|
+|Identificador|Requisitos Funcionais (o que)| Prioridade | Dependências |
 |---------------------|--------------|
 |RF01 | O sistema sistema deve apresentar o subtotal ao usuário antes de finalizar a compra|
 |RF02 | O sistema deve apresentar o sabor das esfirras ao usuário quando solicitado|
@@ -85,7 +85,7 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |RF10 | O software no perfil de administrador deve ser capaz de visualizar o gasto para a produção|
 
 
-|Identificador|Requisitos Não Funcionais|
+|Identificador|Requisitos Não Funcionais (como)|
 |--|--|
 |RNF01 | O sistema deve armazenar os pedidos em um banco de dados|
 |RNF02 | O sistema deve gerenciar os pontos fidelidade de cada usuário| **
@@ -96,7 +96,12 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |RNF07 | O sistema deve separar os pedidos em "realizando" e "concluído"|
 |RNF08 | O sistema deverá oferecer opções de pagamento em dinheiro ou cartão|
 |RNF09 | O sistema deve manter um histórico de compras dos clientes| **
-|RNF10 | O sistema deverá salvar os dados de pedidos que não foram finalizados pelos clientes|**
+|RNF10 | O sistema deve salvar os dados de pedidos que não foram finalizados pelos clientes|**
+
+|| O sistema deve ser intuitivo para que qualquer um consiga usar|
+|| O sistema deve poder ser acessado em qualquer dispositivo mobile (android e ios)|
+|| O sistema deverá ter 
+||
 
 
 ***2.3. Protótipos***
