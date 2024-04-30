@@ -107,29 +107,15 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 
 ### **Roteiro Entrevista**
 
-1. Qual sua maior dificuldade no trabalho?
-2. 
-
-Como começou a fazer esfirras?
-O que a motivou a iniciar seu negócio de esfirras?
-Variedade de Esfirras
-Quais são os sabores mais populares entre seus clientes?
-Você está aberta a experimentar novos sabores?
-Diferencial
-O que você acha que diferencia suas esfirras das outras?
-Existe algum ingrediente especial ou técnica que você utiliza?
-Clientes e Feedback
-Como você interage com seus clientes?
-Que tipo de feedback você recebe sobre suas esfirras?
-Desafios e Superando Obstáculos
-Quais foram os maiores desafios que enfrentou ao empreender nesse ramo?
-Como você os superou?
-Presença Online
-Como você promove atualmente suas esfirras?
-Qual a importância de ter um site para o seu negócio?
-Expectativas para o Site
-O que você espera alcançar com o novo site?
+1. Quais foram os maiores desafios que enfrentou ao empreender nesse ramo?
+2. O que a motivou a iniciar seu negócio de esfirras?
+3. Quais são os sabores mais populares entre seus clientes?
+4. Como você interage com seus clientes?
+5. Como você promove atualmente suas esfirras?
+6. Como você lidaria com um crescimento inexperado do seu negócio? Franquias, Terceirizar alguma tarefa?
 7. Que funcionalidades você acha essenciais para ajudar nas vendas?
+8. O que pretende alcançar com o aplicativo?
+
 
 
 ***2.3. Protótipos***
