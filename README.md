@@ -108,14 +108,16 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 ### **Roteiro Entrevista**
 
 1. Quais foram os maiores desafios que enfrentou ao empreender nesse ramo?
-2. O que a motivou a iniciar seu negócio de esfirras?
-3. Quais são os sabores mais populares entre seus clientes?
-4. Como você interage com seus clientes?
-5. Como você promove atualmente suas esfirras?
-6. Como você lidaria com um crescimento inexperado do seu negócio? Franquias, Terceirizar alguma tarefa?
-7. Que funcionalidades você acha essenciais para ajudar nas vendas?
-8. O que pretende alcançar com o aplicativo?
-
+2. Quais problemas você acredita que o aplicativo poderia resolver?
+3. O que a motivou a iniciar seu negócio de esfirras?
+4. Quais são os sabores mais populares entre seus clientes?
+5. Como você interage com seus clientes?
+6. Como você promove atualmente suas esfirras?
+7. Como você lidaria com um crescimento inexperado do seu negócio? Franquias, Terceirizar alguma tarefa?
+8. Que funcionalidades você acha essenciais para ajudar nas vendas?
+9. Você acha que seus clientes se adaptariam ao aplicativo?
+10. E você se adaptaria ao aplicativo?
+11. Qual o seu processo de venda atualmente?
 
 
 ***2.3. Protótipos***
