@@ -121,22 +121,20 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 11. Qual o seu processo de venda atualmente?
 
 
-|Historias de Usuário|
-|-|
-|1|Como cliente, quero verificar o tempo estimado para a entrega chegada do produto, para poder |
-|2||
-|3||
-|4||
-|5||
-|6||
-|7||
-|8||
-|9||
-|10||
-|11||
-|12||
-|13||
-|14||
+|Número|Historias de Usuário|Tipo|
+|-|-|-|
+|1| Como cliente, quero verificar o tempo estimado para a chegada do produto, para poder me organizar para recebê-lo||
+|2| Como cliente, quero ver o valor da compra antes de finalizá-la, para saber quanto devo pagar||
+|3| Como funcionário, quero poder consultar e finalizar os pedidos feitos pelos clientes, para que os pedidos não fiquem em demanda||
+|4| Como cliente, quero ver os sabores do produto, para escolher os de minha preferência||
+|5| Como funcionário, quero poder adicionar sabores ao aplicativo, para poder aumentar meu catálogo||
+|6| Como funcionário, quero ter acesso aos endereços dos pedidos, para poder realizar as entregas corretamente||
+|7| Como funcionário, quero ver o gastos que terei com a produção, para poder reajustar os preços das esfirras||
+|8| Como cliente, quero adicionar diferentes produtos a um carrinho virtual, para poder comprar mais de um produto||
+|9| Como cliente, quero poder me cadastrar no aplicativo, para ter minhas informações salvas||
+|10| Como usuário, quero escolher qual tipo de login realizar, para acessar minha conta||
+|11| Como funcionário, quero poder acessar meu fluxo de caixa, para ter mais agilidade e organização no meu negócio||
+|12| Como cliente, quero poder acessar um suporte online, para poder sanar quaisquer dúvidas ou problemas que possam ocorrer||
 
 
 ***2.3. Protótipos***
