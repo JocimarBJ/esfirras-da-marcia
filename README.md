@@ -73,7 +73,7 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 
 |Identificador|Descrição|Prioridade|
 |---------------------|--------------|------------|
-|RF01 | O sistema sistema deve apresentar o subtotal ao usuário antes de finalizar a compra| Alta
+|RF01 | O sistema deve apresentar o subtotal ao usuário antes de finalizar a compra| Alta
 |RF02 | O sistema deve apresentar o sabor das esfirras ao usuário quando solicitado| Media
 |RF03 | O sistema deve ser capaz de calcular o custo de produção| Baixa
 |RF04 | O sistema deve registrar a entrada e saída de caixa| Alta
@@ -87,6 +87,8 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |RF12 | O sistema deve permitir que o usuário faça seu cadastro usando seus dados pessoais| Alta
 |RF13 | O sistema deve permitir que o usuário escolha qual tipo de login irá fazer, sendo Administrador ou Cliente| Alta
 |RF14 | O sistema deve permitir que o usuário acesse uma interface de histórico das entradas, saídas e registros de caixa realizados pelo sistema|Alta
+|RF15 | O sistema deve permitir que os usuários acessem o botão de suporte/contato online em qualquer pagina do sistema|Media
+|RF16 | O sistema deve permitir que os usuários vejam o tempo médio de entrega do produto|Media
 |===|==================================================================|===|
 |RN01| O sistema deve poder ser acessado em qualquer dispositivos mobile (Android e Ios)|Alta
 |RN02| O sistema deve suportar diferentes tipos de moedas|Baixa
@@ -102,8 +104,7 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |RN12| O sistema deve garantir que o cadastro do Administrador contenha um conjunto adicional de informações, incluindo o cargo e a data de admissão do administrador| Alta
 |RN13| O sistema deve fazer com que a compra do usuário seja realizada com menos de 4 cliques no app|Baixa
 |RN14| O sistema deve ter seu banco de dados implementado em MySQL|Baixa
-|RN15| O sistema deve fazer com que os usuários sejam capazes de acessar o botão de suporte/contato online em qualquer pagina do sistema|Media
-|RN16| O sistema deve calcular e mostrar para os usuários o tempo medio por cliente para entregar o produto utilizando a API do google maps|Media
+|RN15| O sistema deve calcular tempo medio da entrega do produto por cliente utilizando a API do google maps|Media
 
 ### **Roteiro Entrevista**
 
@@ -118,6 +119,24 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 9. Você acha que seus clientes se adaptariam ao aplicativo?
 10. E você se adaptaria ao aplicativo?
 11. Qual o seu processo de venda atualmente?
+
+
+|Historias de Usuário|
+|-|
+|1|Como cliente, quero verificar o tempo estimado para a entrega chegada do produto, para poder |
+|2||
+|3||
+|4||
+|5||
+|6||
+|7||
+|8||
+|9||
+|10||
+|11||
+|12||
+|13||
+|14||
 
 
 ***2.3. Protótipos***
