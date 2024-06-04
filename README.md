@@ -93,19 +93,31 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |Requisitos Não Funcionais|Descrição|Prioridade|
 |-|-|-|
 |RN01| O sistema deve poder ser acessado em qualquer dispositivos mobile (Android e Ios)|Alta
-|RN02| O sistema deve suportar diferentes tipos de moedas|Baixa
+|RN02| |
 |RN03| O sistema deve suportar português, inglês e espanhol para maximizar a abrangência de público|Baixa
+|RN4||
+|RN5||
+|RN06| O sistema deve suportar 100 usuários concorrentemente|Alta
+|RN7||
+|RN8||
+|RN09| O sistema deve ser implementado em Kotlin para android e Swift para IOS|Alta
+|RN10||
+|RN11||
+|RN12||
+|RN13| O sistema deve fazer com que a compra do usuário seja realizada com menos de 4 cliques no app|Baixa
+|RN14| O sistema deve ter seu banco de dados implementado em MySQL|Baixa
+
+
+|Requisitos trocados|Descrição|Prioridade|
+|-|-|-|
+|RN02| O sistema deve suportar diferentes tipos de moedas|Baixa
 |RN04| O sistema deve armazenar os pedidos dos clientes em um banco de dados|Alta
 |RN05| O sistema deve armazenar as contas dos usuários com cpf, nome e telefone no banco de dados|Alta
-|RN06| O sistema deve suportar 100 usuários concorrentemente|Alta
 |RN07| O sistema deve oferecer opções de pagamento em dinheiro, cartão ou pix|Alta
 |RN08| O sistema deve salvar os dados de pedidos que não foram finalizados pelos clientes|Alta
-|RN09| O sistema deve ser implementado em Kotlin para android e Swift para IOS|Alta
 |RN10| O sistema deve retringir o acesso aos dados pessoais dos usuários apenas aos administradores|Alta
 |RN11| O sistema deve garantir que o cadastro seja realizado com os dados do CPF, Nome e Telefone do usuário para todo usuário| Alta
 |RN12| O sistema deve garantir que o cadastro do Administrador contenha um conjunto adicional de informações, incluindo o cargo e a data de admissão do administrador| Alta
-|RN13| O sistema deve fazer com que a compra do usuário seja realizada com menos de 4 cliques no app|Baixa
-|RN14| O sistema deve ter seu banco de dados implementado em MySQL|Baixa
 |RN15| O sistema deve calcular tempo medio da entrega do produto por cliente utilizando a API do google maps|Media
 
 ### **Roteiro Entrevista**
