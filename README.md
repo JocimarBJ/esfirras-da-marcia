@@ -71,7 +71,7 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 
 ## 2. Documentos gerais no repositório
 
-|Identificador|Descrição|Prioridade|
+|Requisitos Funcionais|Descrição|Prioridade|
 |---------------------|--------------|------------|
 |RF01 | O sistema deve apresentar o subtotal ao usuário antes de finalizar a compra| Alta
 |RF02 | O sistema deve apresentar o sabor das esfirras ao usuário quando solicitado| Media
@@ -89,7 +89,8 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |RF14 | O sistema deve permitir que o usuário acesse uma interface de histórico das entradas, saídas e registros de caixa realizados pelo sistema|Alta
 |RF15 | O sistema deve permitir que os usuários acessem o botão de suporte/contato online em qualquer pagina do sistema|Media
 |RF16 | O sistema deve permitir que os usuários vejam o tempo médio de entrega do produto|Media
-|===|==================================================================|===|
+
+|Requisitos Não Funcionais|Descrição|Prioridade|
 |RN01| O sistema deve poder ser acessado em qualquer dispositivos mobile (Android e Ios)|Alta
 |RN02| O sistema deve suportar diferentes tipos de moedas|Baixa
 |RN03| O sistema deve suportar português, inglês e espanhol para maximizar a abrangência de público|Baixa
