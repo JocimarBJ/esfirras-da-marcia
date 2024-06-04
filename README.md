@@ -93,19 +93,17 @@ Marcia criou um sistema online para oferecer esfirras e receber os pedidos dos c
 |Requisitos Não Funcionais|Descrição|Prioridade|
 |-|-|-|
 |RN01| O sistema deve poder ser acessado em qualquer dispositivos mobile (Android e Ios)|Alta
-|RN02| |
+|RN02| O sistema deve suportar até o android 5| Media
 |RN03| O sistema deve suportar português, inglês e espanhol para maximizar a abrangência de público|Baixa
-|RN4||
-|RN5||
+|RN40| O administrador deve ser o único com acesso aos dados dos clientes| Alta
+|RN05| O sistema deve estar de acordo com a LGPD| Alta
 |RN06| O sistema deve suportar 100 usuários concorrentemente|Alta
-|RN7||
-|RN8||
+|RN07| As notificações de push deverão ser enviadas por meio da Firebase|Baixa
+|RN08| Todos os processos menores deverão usar meória cache para maior otimização|Media
 |RN09| O sistema deve ser implementado em Kotlin para android e Swift para IOS|Alta
-|RN10||
-|RN11||
-|RN12||
-|RN13| O sistema deve fazer com que a compra do usuário seja realizada com menos de 4 cliques no app|Baixa
-|RN14| O sistema deve ter seu banco de dados implementado em MySQL|Baixa
+|RN10| O sistema deve fazer com que a compra do usuário seja realizada com menos de 4 cliques no app|Baixa
+|RN11| O sistema deve ter seu banco de dados implementado em MySQL|Baixa
+
 
 
 |Requisitos trocados|Descrição|Prioridade|
