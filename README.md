@@ -166,7 +166,7 @@ https://drive.google.com/file/d/1h1JIyD0GbjGOFi9dKXTOqYi0zFZBnbku/view?usp=shari
 |UC02|Verificar Distância/Tempo|Funcionário Administrador|
 |UC03|Inserir Gastos|Administrador|
 |UC04|Calcular Custo|Administrador e Sistema|
-|UC05|Verificar Custo|Administrador|
+|UC05|Verificar Lucro|Administrador|
 |UC06|Inserir Ganhos|Administrador|
 |UC07|Calcular Receita|Administrador|
 
