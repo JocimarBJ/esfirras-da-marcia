@@ -157,7 +157,33 @@ https://drive.google.com/file/d/1h1JIyD0GbjGOFi9dKXTOqYi0zFZBnbku/view?usp=shari
 
 [https://injamock.com/Designer/Workplace/195324393](https://ninjamock.com/s/DG43JLx)
 
+***2.4 Documentação dos Diagramas de Caso de Uso***
+**FINANCEIRO**
+|ID|Nome|Ator|
+|-|-|-|
+|UC01|Consultar Endereço|Funcionário e Administrador|
+|UC02|Verificar Distância/Tempo|Funcionário Administrador|
+|UC03|Inserir Gastos|Administrador|
+|UC04|Calcular Custo|Administrador e Sistema|
+|UC05|Verificar Custo|Administrador|
+|UC06|Inserir Ganhos|Administrador|
+|UC07|Calcular Receita|Administrador|
 
+**ESTOQUE**
+|ID|Nome|Ator|
+|-|-|-|
+|UC01|Consultar estoque|Funcionário|
+|UC02|Consultar processo de produção|Funcionário e Administrador|
+|UC03|Ver quantidade para a produção|Funcionário e Administrador|
+|UC04|Ver quantidade de ingredientes|Funcionario e Administrador|
+|UC05|Ver quantidade de produtos|Funcionario e Administrador|
+|UC06|Registrar produtos|Administrador|
+|UC07|Registrar saída de produtos|Administrador|
+|UC08|Registrar entrada de produtos|Administrador|
+|UC09|Atualizar informações|Administrador|
+|UC10|Remover produtos|Administrador|
+|UC11|Ver gasto para produção|Administrador|
+|UC12|Gerar relatórios de estoque|Sistema|
 ## Referências
 
 *<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
