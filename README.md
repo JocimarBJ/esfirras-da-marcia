@@ -158,9 +158,10 @@ https://drive.google.com/file/d/1h1JIyD0GbjGOFi9dKXTOqYi0zFZBnbku/view?usp=shari
 [https://injamock.com/Designer/Workplace/195324393](https://ninjamock.com/s/DG43JLx)
 
 ***2.4 Documentação dos Diagramas de Caso de Uso***
-**FINANCEIRO**
-|ID|Nome|Ator|
+
+| |FINANCEIRO| |
 |-|-|-|
+|ID|Nome|Ator|
 |UC01|Consultar Endereço|Funcionário e Administrador|
 |UC02|Verificar Distância/Tempo|Funcionário Administrador|
 |UC03|Inserir Gastos|Administrador|
@@ -169,9 +170,9 @@ https://drive.google.com/file/d/1h1JIyD0GbjGOFi9dKXTOqYi0zFZBnbku/view?usp=shari
 |UC06|Inserir Ganhos|Administrador|
 |UC07|Calcular Receita|Administrador|
 
-**ESTOQUE**
-|ID|Nome|Ator|
+| |Estoque| |
 |-|-|-|
+|ID|Nome|Ator|
 |UC01|Consultar estoque|Funcionário|
 |UC02|Consultar processo de produção|Funcionário e Administrador|
 |UC03|Ver quantidade para a produção|Funcionário e Administrador|
@@ -184,6 +185,20 @@ https://drive.google.com/file/d/1h1JIyD0GbjGOFi9dKXTOqYi0zFZBnbku/view?usp=shari
 |UC10|Remover produtos|Administrador|
 |UC11|Ver gasto para produção|Administrador|
 |UC12|Gerar relatórios de estoque|Sistema|
+
+| |Compra| |
+|-|-|-|
+|ID|Nome|Ator|
+|UC01|Navegar pelo catalogo|Cliente|
+|UC02|Adicionar item ao carrinho|Cliente|
+|UC03|Finalizar compra|Cliente|
+|UC04|Informar endereço|Cliente|
+|UC05|Selecionar forma de pagamento|Cliente|
+|UC06|Preencher dados do cartão|Cliente|
+|UC07|Validar cartão|Cliente e Sistema|
+|UC08|Rastrear pedido|Cliente e Sistema|
+|UC09|Confirmar pedido|Sistema|
+
 ## Referências
 
 *<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
