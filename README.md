@@ -160,6 +160,19 @@ https://drive.google.com/file/d/1h1JIyD0GbjGOFi9dKXTOqYi0zFZBnbku/view?usp=shari
 
 ***2.4 Documentação dos Diagramas de Caso de Uso***
 
+| |LOGIN| |
+|-|-|-|
+|ID|Nome|Ator|
+|UC01|Efetuar Login|Cliente, Administrador e Funcionário|
+|UC02|Visualizar Perfil|Cliente, Administrador e Funcionário|
+|UC03|Editar Perfil|Cliente, Administrador e Funcionário|
+|UC04|Excluir Perfil|Cliente, Administrador e Funcionário|
+|UC05|Efetuar Cadastro|Cliente, Administrador e Funcionário|
+|UC06|Inserir CPF, Nome e Telefone|Cliente, Administrador e Funcionário|
+|UC07|Inserir Cargo e Data de Admissão|Cliente, Administrador e Funcionário|
+|UC08|Inserir CPNJ|Administrador|
+|UC09|Inserir E-mail|Funcionário|
+
 | |FINANCEIRO| |
 |-|-|-|
 |ID|Nome|Ator|
@@ -167,11 +180,11 @@ https://drive.google.com/file/d/1h1JIyD0GbjGOFi9dKXTOqYi0zFZBnbku/view?usp=shari
 |UC02|Verificar Distância/Tempo|Funcionário Administrador|
 |UC03|Inserir Gastos|Administrador|
 |UC04|Calcular Custo|Administrador e Sistema|
-|UC05|Verificar Lucro|Administrador|
+|UC05|Verificar Lucro|Administrador e Sistema|
 |UC06|Inserir Ganhos|Administrador|
 |UC07|Calcular Receita|Administrador|
 
-| |Estoque| |
+| |ESTOQUE| |
 |-|-|-|
 |ID|Nome|Ator|
 |UC01|Consultar estoque|Funcionário|
@@ -187,7 +200,7 @@ https://drive.google.com/file/d/1h1JIyD0GbjGOFi9dKXTOqYi0zFZBnbku/view?usp=shari
 |UC11|Ver gasto para produção|Administrador|
 |UC12|Gerar relatórios de estoque|Sistema|
 
-| |Compra| |
+| |COMPRA| |
 |-|-|-|
 |ID|Nome|Ator|
 |UC01|Navegar pelo catalogo|Cliente|
